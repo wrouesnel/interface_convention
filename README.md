@@ -1,3 +1,6 @@
+[![Build and Test](https://github.com/wrouesnel/interface_convention/actions/workflows/integration.yml/badge.svg)](https://github.com/wrouesnel/interface_convention/actions/workflows/integration.yml)
+[![Coverage Status](https://coveralls.io/repos/github/wrouesnel/interface_convention/badge.svg?branch=main)](https://coveralls.io/github/wrouesnel/interface_convention?branch=main)
+
 # Interface Convention
 
 This is a helper package to simplify maintaining YAML based unmarshalling interfaces

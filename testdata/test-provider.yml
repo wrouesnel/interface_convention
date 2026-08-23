@@ -1,0 +1,7 @@
+list_of:
+  - type: p-type
+  - type: s-type
+  - type: s-type
+    config:
+      s: non-default config
+  - type: x-type

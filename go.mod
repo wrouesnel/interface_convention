@@ -15,4 +15,4 @@ require (
 	golang.org/x/text v0.22.0 // indirect
 )
 
-replace go.yaml.in/yaml/v4 => github.com/wrouesnel/yaml.go-yaml/v4 v4.0.0-20260823093432-eb9e6240f474
+replace go.yaml.in/yaml/v4 => github.com/wrouesnel/yaml.go-yaml/v4 v4.0.0-20260823094537-5260188c94a6

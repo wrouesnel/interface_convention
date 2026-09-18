@@ -2,9 +2,10 @@ package interface_convention_test
 
 import (
 	"embed"
-	"interface_convention"
 	"io/fs"
 	"os"
+
+	"github.com/wrouesnel/interface_convention"
 
 	"github.com/samber/lo"
 	"go.yaml.in/yaml/v4"
